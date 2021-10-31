@@ -2,10 +2,6 @@
 
 namespace UPC;
 
-require __DIR__ . '/../vendor/autoload.php';
-require __DIR__ . '/http-client.php';
-require __DIR__ . '/sign.php';
-
 use UPC\HttpClient;
 use UPC\Sign;
 use Gamegos\JWS\JWS;
