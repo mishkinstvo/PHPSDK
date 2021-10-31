@@ -2,8 +2,6 @@
 
 namespace UPC;
 
-use Error;
-
 class HttpClient
 {
 
